@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+title: "I miei progetti"
+description: "Una collezione dei miei progetti GitHub"
+baseurl: "" # Se stai usando un dominio personalizzato, imposta qui il baseurl
+url: "https://fl3r.github.io" # Sostituisci con il tuo URL GitHub Pages
+theme: jekyll-theme-minimal # o il tema che hai scelto
+github:
+  is_project_page: true
